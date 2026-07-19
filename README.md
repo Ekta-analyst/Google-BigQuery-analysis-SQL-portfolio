@@ -1,3 +1,6 @@
-1. *London Bicycle Analysis:* Urban logistics and ride patterns evaluation.
-2. *US Baby Names Demographics:* Generational and population trends cross-sectional analysis.
-3. *Urban Forestry Census:* Environmental canopy metrics and species distribution.
+# Google BigQuery SQL Analytics Portfolio
+
+## 📊 Projects & Total Queries (8 Queries):
+* *London Bicycle Analysis (6 Queries):* Comprehensive urban logistics...
+* *US Baby Names Demographics (1 Query):* Generational popularity...
+* *Urban Forestry Census (1 Query):* Canopy structure health...
