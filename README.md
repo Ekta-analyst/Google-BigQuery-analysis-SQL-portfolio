@@ -33,9 +33,10 @@ Environmental data analysis focused on urban forestry metrics.
 ---
 
 ## 💡 Key Learnings & Skills Demonstrated
-* Proficient in writing complex SELECT, WHERE, filtering, and aggregation queries in SQL.
-* Ability to handle multi-table data joins and string/numerical pattern matching.
+* Proficient in writing core SQL clauses including *SELECT, **FROM, and **WHERE* for effective data filtering and retrieval.
+* Ability to handle multi-table data joins, sorting, and aggregate functions.
 * Transforming raw database records into actionable insights.
+*
 
 * *US Baby Names Demographics (1 Query):* Generational popularity...
 * *Urban Forestry Census (1 Query):* Canopy structure health...
